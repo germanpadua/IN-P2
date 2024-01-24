@@ -1,2 +1,2 @@
 # IN-P2
-Análisis Relacional mediante Segmentación (Clsutering)
+Análisis Relacional mediante Segmentación (Clustering)
